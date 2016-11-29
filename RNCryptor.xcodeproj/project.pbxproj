@@ -294,7 +294,6 @@
 				TargetAttributes = {
 					FB627FCD1B2B7A1700C3A579 = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = J374TBL6J6;
 						DevelopmentTeamName = "Rob Napier";
 						LastSwiftMigration = 0800;
 					};
@@ -538,6 +537,7 @@
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -558,6 +558,7 @@
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
