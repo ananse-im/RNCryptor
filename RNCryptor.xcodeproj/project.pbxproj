@@ -296,6 +296,7 @@
 						CreatedOnToolsVersion = 7.0;
 						DevelopmentTeamName = "Rob Napier";
 						LastSwiftMigration = 0800;
+						ProvisioningStyle = Manual;
 					};
 					FB627FD71B2B7A1800C3A579 = {
 						CreatedOnToolsVersion = 7.0;
